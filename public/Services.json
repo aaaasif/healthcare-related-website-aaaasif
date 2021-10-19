@@ -4,6 +4,41 @@
         "name": "Free Checkups",
         "time": "9AM-9PM",
         "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/dGDkr4v/1.jpg"
+        "img": "https://i.ibb.co/6rwkDBM/doc-5.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Free Checkups",
+        "time": "9AM-9PM",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/6rwkDBM/doc-5.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Free Checkups",
+        "time": "9AM-9PM",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/6rwkDBM/doc-5.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Free Checkups",
+        "time": "9AM-9PM",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/6rwkDBM/doc-5.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Free Checkups",
+        "time": "9AM-9PM",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/6rwkDBM/doc-5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Free Checkups",
+        "time": "9AM-9PM",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/6rwkDBM/doc-5.jpg"
     }
 ]
