@@ -2,13 +2,14 @@ import React from 'react';
 import "./Header.css"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faHeartbeat } from '@fortawesome/free-solid-svg-icons'
+import { Link } from 'react-router-dom';
 
 const Header = () => {
     const heartIcon = <FontAwesomeIcon icon={faHeartbeat} />
     return (
         <div>
             <header className="header">
-                <a href="#" className="logo">{heartIcon} <span className=".text-dark">MediLab.</span></a>
+                <Link href="#" className="logo">{heartIcon} <span className=".text-dark">MediLab.</span></Link>
     
                 <nav className="navbar">
                     <a href="#home">home</a>

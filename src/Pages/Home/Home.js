@@ -1,14 +1,16 @@
 import React from 'react';
 import Banner from '../Banner/Banner';
-import Footer from '../Footer/Footer';
+import Facility from '../Facility/Facility';
+// import Footer from '../Footer/Footer';
 import Header from '../Header/Header';
 
 const Home = () => {
     return (
         <div>
             <Header></Header>
+            <br /> <br /> <br />
             <Banner></Banner>
-            <Footer></Footer>
+            <Facility></Facility>
         </div>
     );
 };
