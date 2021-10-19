@@ -28,6 +28,7 @@ const Facility = () => {
                     <p>bed facility</p>
                 </div>
             </section>
+            <button className="btn btn-primary">Book Now</button>
         </div>
     );
 };
