@@ -1,5 +1,5 @@
 {
-    "servicers": [
+    "service": [
       {
         "name": "Free Checkups",
         "location": {
@@ -10,12 +10,12 @@
         "login": {
           "username": "checkup",
           "password": "firewall",
-          "key": "e1"
+          "id": "e1"
         },
         "phone": "011-962-7516",
         "picture": {
           "thumbnail": "https://i.ibb.co/6gGXHGs/nguy-n-hi-p-ufw-C2cmbaa-I-unsplash.jpg",
-          "description":"Hospital Emergency Codes are used in hospitals worldwide, including SKB medical, to alert the staff of various emergency situations. The use of codes is intended to convey essential information quickly and with the least misunderstanding to staff, while preventing stress or panic among visitors to the hospital. At our Hospitals, we are using nine Emergency Codes (coded by colour), each denoting a different emergency situation."
+          "description":"Going for a medical checkup regularly helps you avoid a wide number of diseases and catch other diseases early on. It also serves to keep you better-advised about your health, keep your physician or other doctors apprised on your health, and basically result in a healthier life."
         }
       },
   
@@ -29,12 +29,12 @@
         "login": {
           "username": "Ambulance",
           "password": "firewall",
-          "key": "2"
+          "id": "2"
         },
         "phone": "011-962-7516",
         "picture": {
           "thumbnail": "https://i.ibb.co/sVk6B7C/obi-onyeador-T5-Toj-XFNnjk-unsplash.jpg",
-          "description":"Hospital Emergency Codes are used in hospitals worldwide, including SKB medical, to alert the staff of various emergency situations. The use of codes is intended to convey essential information quickly and with the least misunderstanding to staff, while preventing stress or panic among visitors to the hospital. At our Hospitals, we are using nine Emergency Codes (coded by colour), each denoting a different emergency situation."
+          "description":"Additionally, Alert Ambulance will be entering into an agreement with both the Township of Aberdeen and the Borough of Matawan to provide one dedicated BLS ambulance to cover both municipalities from 6:00 A.M. unit 7:00 P.M. also beginning on New Year’s Day. This unit will help to support the volunteers of Bayshore Emergency Medical Service who continue to provide dedicated service during the overnight hours."
         }
       },
   
@@ -48,12 +48,12 @@
         "login": {
           "username": "doctor",
           "password": "firewall",
-          "key": "3"
+          "id": "3"
         },
         "phone": "011-962-7516",
         "picture": {
           "thumbnail": "https://i.ibb.co/ftm0Hhn/sammy-williams-38-Un6-Oi5be-E-unsplash.jpg",
-          "description":"Hospital Emergency Codes are used in hospitals worldwide, including SKB medical, to alert the staff of various emergency situations. The use of codes is intended to convey essential information quickly and with the least misunderstanding to staff, while preventing stress or panic among visitors to the hospital. At our Hospitals, we are using nine Emergency Codes (coded by colour), each denoting a different emergency situation."
+          "description":"Your family’s wellbeing is the most important. Speak to the best doctors in Dhaka. Video consultation. Medicine delivery. Home sample collection.99% Match on Doctor Jobs Usa. Start searching with Visymo.com. Unlimited Access. 100% Secure. Always Facts. Privacy Friendly."
         }
       },
   
@@ -67,12 +67,12 @@
         "login": {
           "username": "silverswan131",
           "password": "firewall",
-          "key": "4"
+          "id": "4"
         },
         "phone": "011-962-7516",
         "picture": {
           "thumbnail": "https://i.ibb.co/Tr2Bb1D/christine-sandu-jw-Wt-Zrm67-VI-unsplash.jpg",
-          "description":"Hospital Emergency Codes are used in hospitals worldwide, including SKB medical, to alert the staff of various emergency situations. The use of codes is intended to convey essential information quickly and with the least misunderstanding to staff, while preventing stress or panic among visitors to the hospital. At our Hospitals, we are using nine Emergency Codes (coded by colour), each denoting a different emergency situation."
+          "description":"Discover Health Insurances Australia At Asksly! - Easily Found! Many Products. Easy Acces. Quick Results. Compare Products. Search and Discover. Find Easily. Types: Products Online, Instant Results, Big Variaty, 24/7 Accessible.Trusted results for Health Insurance Us. Check Visymo Search for the best results! Unlimited Access. 100% Secure. Always Facts. Privacy Friendly."
         }
       },
   
@@ -86,12 +86,12 @@
         "login": {
           "username": "silverswan131",
           "password": "firewall",
-          "key": "5"
+          "id": "5"
         },
         "phone": "011-962-7516",
         "picture": {
           "thumbnail": "https://i.ibb.co/s3f6YMv/adhy-savala-zbpgm-Ge27p8-unsplash.jpg",
-          "description":"Hospital Emergency Codes are used in hospitals worldwide, including SKB medical, to alert the staff of various emergency situations. The use of codes is intended to convey essential information quickly and with the least misunderstanding to staff, while preventing stress or panic among visitors to the hospital. At our Hospitals, we are using nine Emergency Codes (coded by colour), each denoting a different emergency situation."
+          "description":"It is impossible to imagine a medical facility without hospital beds. There are myriad of hospital beds available in the market and you got to choose.Innovative Hospital Beds To Prioritise Patient Safety ... The Importance Of Quality Healthcare Furniture Healthcare facilities, be it, hospitals ."
         }
       },
   
@@ -105,12 +105,12 @@
         "login": {
           "username": "silverswan131",
           "password": "firewall",
-          "key": "6"
+          "id": "6"
         },
         "phone": "011-962-7516",
         "picture": {
           "thumbnail": "https://i.ibb.co/wNBwPpS/full-body-health-checkup-626x439.jpg",
-          "description":"Hospital Emergency Codes are used in hospitals worldwide, including SKB medical, to alert the staff of various emergency situations. The use of codes is intended to convey essential information quickly and with the least misunderstanding to staff, while preventing stress or panic among visitors to the hospital. At our Hospitals, we are using nine Emergency Codes (coded by colour), each denoting a different emergency situation."
+          "description":"Up to 40% Discount | Enjoy complete health checkup & lab test from the safety of your home. Health Check Package | 20 lab tests | One video consultation with a Praava Family Doctor. Medicine delivery. Home sample collection. Video consultation.Do healthy individuals need yearly full body health checks? Even though some medical experts suggest undergoing a whole body checkup every year."
         }
       }
     ]

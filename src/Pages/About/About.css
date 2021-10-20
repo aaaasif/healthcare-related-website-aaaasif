@@ -1,6 +1,6 @@
 
 .aboutUs-main {
-    background-color: antiquewhite;
+    background-color: #F5F5F5;
     border-radius: 20px;
     margin: 0px;
 }
@@ -19,7 +19,7 @@
 .aboutUs2 {
     text-align: left;
     font-size: 18px;
-    background-color: antiquewhite;
+    background-color: #F5F5F5;
     border-radius: 20px;
     margin: 0px;
 }
@@ -28,24 +28,9 @@
 }
 /* privacy */
 .privacyMain {
-    background-color: antiquewhite;
+    background-color: #F5F5F5;
     border-radius: 20px;
 }
 .privacy {
     max-width: 90%;
-}
-.read-more {
-    border: none;
-    background-color: #fa6464;
-    padding: 5px 40px;
-    border-radius: 8px;
-    font-size: 18px;
-    font-weight: 600;
-    margin-bottom: 10px;
-    transition: 0.4s;
-}
-.read-more:hover {
-    transform: scale(1.05);
-    background-color: #31383d;
-    color: white;
 }

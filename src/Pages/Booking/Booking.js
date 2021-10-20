@@ -3,24 +3,17 @@ import "./Booking"
 
 const Booking = () => {
     return (
-        <div>
-            <section class="book" id="book">
-                    <h1 class="heading"> <span>book</span> now </h1>    
-                <div class="row">
-                <div class="image">
-                        <img src="i" alt="paoa jache a"/>
-                </div>
-                    <form action="">
-                        <h3>book appointment</h3>
-                        <input type="text" placeholder="your name" class="box"/>
-                        <input type="number" placeholder="your number" class="box"/>
-                        <input type="email" placeholder="your email" class="box"/>
-                        <input type="date" class="box"/>
-                        <input type="submit" value="book now" class="btn"/>
-                        </form>
-                </div>
-
-            </section>
+        <div className='m-5'>
+            <form >
+               <div className="mb-5 ">
+                 <label for="exampleInputEmail1" className="form-label m-2">Fill The Form</label>
+                 <input type="email" placeholder="your name" className="form-control m-2" id="exampleInputEmail1" aria-describedby="emailHelp"/>
+                 <input type="email" placeholder="your number" className="form-control m-2" id="exampleInputEmail1" aria-describedby="emailHelp"/>
+                 <input type="email" placeholder="your email" className="form-control m-2" id="exampleInputEmail1" aria-describedby="emailHelp"/>
+                 <input type="date" className="form-control m-2" id="exampleInputEmail1 " aria-describedby="emailHelp"/>
+                </div> 
+               <button type="submit" className="common-button">Confrom</button>
+             </form>
         </div>
     );
 };

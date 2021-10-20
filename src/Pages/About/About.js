@@ -13,7 +13,7 @@ const About = () => {
                     <h1 className="about-title">About Us</h1>
                     <p>SKB Medical Hospital (Pvt.) Ltd. is the best super-specialty tertiary care hospital in Bangladesh, confidently providing comprehensive health care with the latest medical, surgical and diagnostic facilities.....</p>
                     <Link to="/">
-                        <button className="read-more">Read More</button>
+                        <button className="common-button">Read More</button>
                     </Link>
                 </div>
 

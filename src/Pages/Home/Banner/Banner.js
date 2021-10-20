@@ -7,7 +7,7 @@ const Banner = () => {
             <div className="col-7">
                 <img className="image w-75" src={BannerLogo} alt="" />
             </div>
-            <div class="content col-5 text-start">
+            <div className="content col-5 text-start">
                 <h1>Stay Safe, Stay Healthy</h1>
                 <p>“To ensure good health: eat lightly, breathe deeply, live moderately, cultivate cheerfulness, and maintain an interest in life.”</p>
                 <button className="common-button fw-bold">Contact Us</button>

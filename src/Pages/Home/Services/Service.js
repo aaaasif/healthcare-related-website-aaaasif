@@ -3,7 +3,7 @@ import { NavLink } from 'react-router-dom';
 import './Services.css';
 
 const Service = ({ service }) => {
-    const { key, img1, name, shortDescription } = service;
+    const { id, img1, name, shortDescription } = service;
     return (
         <div className="col">
             <div className="card h-100">
@@ -11,7 +11,7 @@ const Service = ({ service }) => {
                 <div class ="card-body">
                     <h5 className="card-title">{name}</h5>
                     <p className="card-text">{shortDescription}</p>
-                    <NavLink to={`/service/${key}`}>
+                    <NavLink to={`/service/${id}`}>
                     <button className=" common-button mb-2"
                     >See Details</button>
                     </NavLink>
