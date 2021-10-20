@@ -2,14 +2,14 @@
     min-height: 100vh;
 }
 .signin-main {
-    background-color:#878576;
+    background-color:#DEF7E5;
     min-height: 500px;
     max-width: 400px;
     border-radius: 20px;
     box-sizing: border-box;
 }
 .login-title {
-    color: rgb(243, 101, 101);
+    color: #16A085;
 }
 .button {
     border: none;
@@ -20,7 +20,7 @@
     transition: 0.4s;
 }
 .button:hover {
-    background-color: rgb(46, 44, 44);
+    background-color: rgb(153, 37, 37);
     color: white;
     transform: scale(1.05);
 }
@@ -35,7 +35,7 @@
 }
 .toggle {
     text-decoration: none;
-    color: rgb(243, 101, 101);
+    color: #16A085;
     font-weight: 700;
 }
 .login-image{
@@ -50,13 +50,8 @@
         width: 80%;
     }
 }
-/* @media only screen and (max-width: 400px) {
-.input-field {
-        width: 250px;
+@media only screen and (max-width: 900px) {
+    .login-image {
+      display: none;
     }
-}
-@media only screen and (max-width: 300px) {
-.input-field {
-        width: 200px;        
-    }
-} */
+  }

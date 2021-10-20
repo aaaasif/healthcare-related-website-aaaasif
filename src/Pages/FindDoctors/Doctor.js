@@ -13,7 +13,7 @@ const Doctor = ({ doctor }) => {
                     <p className="card-text">Speciality: {speciality}</p>
                 </div>
                 <div>
-                    <Link to={`/finddoctors/${key}`}><button className="button mb-4">See Details</button></Link>
+                    <Link to={`/finddoctors/${key}`}><button className="common-button mb-4">See Details</button></Link>
                 </div>
             </div>
         </div>

@@ -5,8 +5,7 @@ const NotFound = () => {
     return (
         <div className="notFound">
             <div>
-                <h1>404</h1>
-                <h1> Page Not Found!!!</h1>
+                <img className="w-50" src="https://i.ibb.co/M6sHHnp/404-Error-Page-not-Found-with-people-connecting-a-plug-amico-2.png" alt="" />
             </div>
         </div>
     );

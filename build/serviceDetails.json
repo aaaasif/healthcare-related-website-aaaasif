@@ -1,0 +1,117 @@
+{
+    "service": [
+      {
+        "name": "Free Checkups",
+        "location": {
+          "street": "9278 new road",
+          "city": "kilcoole"
+        },
+        "email": "jm@example.com",
+        "login": {
+          "username": "checkup",
+          "password": "firewall",
+          "id": "e1"
+        },
+        "phone": "011-962-7516",
+        "picture": {
+          "thumbnail": "https://i.ibb.co/6gGXHGs/nguy-n-hi-p-ufw-C2cmbaa-I-unsplash.jpg",
+          "description":"Going for a medical checkup regularly helps you avoid a wide number of diseases and catch other diseases early on. It also serves to keep you better-advised about your health, keep your physician or other doctors apprised on your health, and basically result in a healthier life."
+        }
+      },
+  
+      {
+        "name": "24/7 Ambulance",
+        "location": {
+          "street": "9278 new road",
+          "city": "kilcoole"
+        },
+        "email": "Ki@example.com",
+        "login": {
+          "username": "Ambulance",
+          "password": "firewall",
+          "id": "2"
+        },
+        "phone": "011-962-7516",
+        "picture": {
+          "thumbnail": "https://i.ibb.co/sVk6B7C/obi-onyeador-T5-Toj-XFNnjk-unsplash.jpg",
+          "description":"Additionally, Alert Ambulance will be entering into an agreement with both the Township of Aberdeen and the Borough of Matawan to provide one dedicated BLS ambulance to cover both municipalities from 6:00 A.M. unit 7:00 P.M. also beginning on New Year’s Day. This unit will help to support the volunteers of Bayshore Emergency Medical Service who continue to provide dedicated service during the overnight hours."
+        }
+      },
+  
+      {
+        "name": "Expert Doctors",
+        "location": {
+          "street": "9278 new road",
+          "city": "kilcoole"
+        },
+        "email": "ra@example.com",
+        "login": {
+          "username": "doctor",
+          "password": "firewall",
+          "id": "3"
+        },
+        "phone": "011-962-7516",
+        "picture": {
+          "thumbnail": "https://i.ibb.co/ftm0Hhn/sammy-williams-38-Un6-Oi5be-E-unsplash.jpg",
+          "description":"Your family’s wellbeing is the most important. Speak to the best doctors in Dhaka. Video consultation. Medicine delivery. Home sample collection.99% Match on Doctor Jobs Usa. Start searching with Visymo.com. Unlimited Access. 100% Secure. Always Facts. Privacy Friendly."
+        }
+      },
+  
+      {
+        "name": "Medicines",
+        "location": {
+          "street": "9278 new road",
+          "city": "kilcoole"
+        },
+        "email": "sah@example.com",
+        "login": {
+          "username": "silverswan131",
+          "password": "firewall",
+          "id": "4"
+        },
+        "phone": "011-962-7516",
+        "picture": {
+          "thumbnail": "https://i.ibb.co/Tr2Bb1D/christine-sandu-jw-Wt-Zrm67-VI-unsplash.jpg",
+          "description":"Discover Health Insurances Australia At Asksly! - Easily Found! Many Products. Easy Acces. Quick Results. Compare Products. Search and Discover. Find Easily. Types: Products Online, Instant Results, Big Variaty, 24/7 Accessible.Trusted results for Health Insurance Us. Check Visymo Search for the best results! Unlimited Access. 100% Secure. Always Facts. Privacy Friendly."
+        }
+      },
+  
+      {
+        "name": "Bed Facility",
+        "location": {
+          "street": "9278 new road",
+          "city": "kilcoole"
+        },
+        "email": "rk@example.com",
+        "login": {
+          "username": "silverswan131",
+          "password": "firewall",
+          "id": "5"
+        },
+        "phone": "011-962-7516",
+        "picture": {
+          "thumbnail": "https://i.ibb.co/s3f6YMv/adhy-savala-zbpgm-Ge27p8-unsplash.jpg",
+          "description":"It is impossible to imagine a medical facility without hospital beds. There are myriad of hospital beds available in the market and you got to choose.Innovative Hospital Beds To Prioritise Patient Safety ... The Importance Of Quality Healthcare Furniture Healthcare facilities, be it, hospitals ."
+        }
+      },
+  
+      {
+        "name": "Full Body CheckUp",
+        "location": {
+          "street": "9278 new road",
+          "city": "kilcoole"
+        },
+        "email": "eht@example.com",
+        "login": {
+          "username": "silverswan131",
+          "password": "firewall",
+          "id": "6"
+        },
+        "phone": "011-962-7516",
+        "picture": {
+          "thumbnail": "https://i.ibb.co/wNBwPpS/full-body-health-checkup-626x439.jpg",
+          "description":"Up to 40% Discount | Enjoy complete health checkup & lab test from the safety of your home. Health Check Package | 20 lab tests | One video consultation with a Praava Family Doctor. Medicine delivery. Home sample collection. Video consultation.Do healthy individuals need yearly full body health checks? Even though some medical experts suggest undergoing a whole body checkup every year."
+        }
+      }
+    ]
+  }

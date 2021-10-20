@@ -1,6 +1,6 @@
 [
     {
-        "key": 1,
+        "id": 1,
         "name": "Free Checkups",
         "shortDescription": "SKB Medical Hospital (PVT) Ltd operates one of the best Accident & Emergency Center in Savar.",
         "description": "SKB Medical Hospital (PVT) Ltd operates one of the best Accident & Emergency Center in Savar, providing services for trauma and non-trauma medical and surgical emergencies 24 hours a day, seven days a week. SKB Medical Hospital (PVT) Ltd Accident & Emergency Center is conveniently located in level-1 of the hospital with a separate entrance. Fully equipped Center is staffed with full-time experienced physicians, nurses and paramedic team, who are specialized in all areas of Emergency Medicine. The Center provides a range of state-of-the-art equipment and technology for emergency management and support, as well as emergency access to other sub specialties and physicians. The Center is also supported by 24-hour imaging, laboratory and Blood Bank services. Life support equipped ambulances are on the go round-the-clock for emergency patients. There is an 8-bedded emergency observation ward to monitor patients’ responses to treatment, as well as four triage beds to determine the level of priority of patients. The Center is also equipped with an operating theater (OT) where emergency surgical procedures are performed, as well as a Chest Pain Observation Unit (CPOU) for management of patients experiencing chest pain.",
@@ -8,7 +8,7 @@
         "img1": "https://i.ibb.co/6gGXHGs/nguy-n-hi-p-ufw-C2cmbaa-I-unsplash.jpg"
     },
     {
-        "key": 2,
+        "id": 2,
         "name": "24/7 Ambulance",
         "shortDescription": "ICU is a unit in the hospital where seriously ill patients are cared for by specially trained staff.",
         "description": "The Intensive Care Unit (ICU) is a unit in the hospital where seriously ill patients are cared for by specially trained staff. The ICU staff includes doctors, nurses, respiratory therapists, clinical nurse specialists, pharmacists, physical therapists, nurse practitioners, physician assistants, dietitians, social workers, and chaplains. Some people may think that staying in the ICU for a longer period of time is better than moving to another hospital unit. However, the ICU is designed to care for only seriously ill patients. So, when a patient is improving and moving towards recovery, he/she will be transferred to the next level of care that meets his/her individual medical needs.",
@@ -16,7 +16,7 @@
         "img1": "https://i.ibb.co/sVk6B7C/obi-onyeador-T5-Toj-XFNnjk-unsplash.jpg"
     },
     {
-        "key": 3,
+        "id": 3,
         "name": "Expert Doctors",
         "shortDescription": "SKB Medical Hospital offers full service centralized out-patient and in-patient hospital pharmacies.",
         "description": "SKB Medical Hospital’s Pharmacy is managed by competent and experienced pharmacists. Our pharmacy staffs are trained in counselling patients about the correct method of taking medicines. Generally, people have very little knowledge regarding proper use of medication. This lack of knowledge may become harmful as it may lead to aggravation of disease, more side effects, less compliance, and even increased cost of therapy. Various studies have shown that when patients discuss their therapy related problems and concerns with a drug expert (pharmacist), it resulted in increased compliance and better treatment outcomes. Several studies have shown that patient education programs by pharmacists had a tremendous impact on patient compliance, medication error rate and therapy outcome. It definitely helped in improving patients’ quality of life.",
@@ -24,7 +24,7 @@
         "img1": "https://i.ibb.co/ftm0Hhn/sammy-williams-38-Un6-Oi5be-E-unsplash.jpg"
     },
     {
-        "key": 4,
+        "id": 4,
         "name": "Medicines",
         "shortDescription": "Pathology is the study of disease. It bridges science and medicine and underpins every aspect of patient care.",
         "description": "Pathology is the study of disease. It bridges science and medicine and underpins every aspect of patient care, from diagnostic testing and treatment advice to the use of cutting-edge genetic technologies and the prevention of disease. Pathologists work with other doctors, scientists, nurses and healthcare professionals in hospitals and GPs’ surgeries to diagnose, treat and prevent illness. Millions of pathology tests are carried out each year for every adult and child in the country – and many animals too. Major advances have been made by pathologists, from breakthroughs in the successful treatment of cancer and the safety of blood transfusions, to treatment for inherited conditions and vaccinations against infectious diseases.",
@@ -32,7 +32,7 @@
         "img1": "https://i.ibb.co/Tr2Bb1D/christine-sandu-jw-Wt-Zrm67-VI-unsplash.jpg"
     },
     {
-        "key": 5,
+        "id": 5,
         "name": "Bed Facility",
         "shortDescription": "Department of Dental & Maxillofacial Surgery of our hospitals savar offers full scope of the dental specialty.",
         "description": "Department of Dental & Maxillofacial Surgery of our hospitals savar offers full scope of the dental specialty, including general dentistry and specialist services in oral & maxillofacial surgery, orthodontics and restorative dentistry (endodontics and prosthodontics). Our aim is to deliver oral health care of the highest standard to our patients through experienced dental surgeons and modern technology. The department provides diagnosis, management and surgical treatment of defects and injuries related to the function and aesthetics of the teeth, gums and jaws",
@@ -40,7 +40,7 @@
         "img1": "https://i.ibb.co/s3f6YMv/adhy-savala-zbpgm-Ge27p8-unsplash.jpg"
     },
     {
-        "key": 6,
+        "id": 6,
         "name": "Full Body CheckUp",
         "shortDescription": "SKB Medical Hospital have good facilities & world class equipments for provide any kind of MRI.",
         "description": "Magnetic Resonance Imaging is a diagnostic technique that uses magnetic fields and radio waves to produce a detailed image of the body’s soft tissue and bones. An MRI images the spine by using a magnet that goes around the body to excite hydrogen atoms. After the atoms return to their normal level of excitation, they emit energy that is detected on a scanner. An MRI scan is generally considered to be the single best imaging study of the spine to help plan treatment for back pain. They are typically used for pre-surgical planning since the scan is extremely sensitive to information about the health of discs as well as the presence of tumors or a herniated disc.",

@@ -50,7 +50,7 @@ function App() {
             <PrivateRoute path="/booking">
               <Booking></Booking>
             </PrivateRoute>
-
+            
             <Route path="/about">
               <About></About>
             </Route>
