@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
 import './Services.css';
 
 const Service = ({ service }) => {
@@ -11,7 +11,10 @@ const Service = ({ service }) => {
                 <div class ="card-body">
                     <h5 className="card-title">{name}</h5>
                     <p className="card-text">{shortDescription}</p>
-                    <Link to={`/service/${key}`}><button className=" common-button mb-2">See Details</button></Link>
+                    <NavLink to={`/service/${key}`}>
+                    <button className=" common-button mb-2"
+                    >See Details</button>
+                    </NavLink>
                 </div>
             </div>
         </div>

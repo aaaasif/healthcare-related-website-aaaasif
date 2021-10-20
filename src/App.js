@@ -31,7 +31,7 @@ function App() {
               <Home></Home>
             </Route>
 
-            <PrivateRoute path="/service/:serviceId">
+            <PrivateRoute path="/service/:Id">
               <ServiceDetails></ServiceDetails>
             </PrivateRoute>
 

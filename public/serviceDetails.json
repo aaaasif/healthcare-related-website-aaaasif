@@ -1,0 +1,117 @@
+{
+    "servicers": [
+      {
+        "name": "Free Checkups",
+        "location": {
+          "street": "9278 new road",
+          "city": "kilcoole"
+        },
+        "email": "jm@example.com",
+        "login": {
+          "username": "checkup",
+          "password": "firewall",
+          "key": "e1"
+        },
+        "phone": "011-962-7516",
+        "picture": {
+          "thumbnail": "https://i.ibb.co/6gGXHGs/nguy-n-hi-p-ufw-C2cmbaa-I-unsplash.jpg",
+          "description":"Hospital Emergency Codes are used in hospitals worldwide, including SKB medical, to alert the staff of various emergency situations. The use of codes is intended to convey essential information quickly and with the least misunderstanding to staff, while preventing stress or panic among visitors to the hospital. At our Hospitals, we are using nine Emergency Codes (coded by colour), each denoting a different emergency situation."
+        }
+      },
+  
+      {
+        "name": "24/7 Ambulance",
+        "location": {
+          "street": "9278 new road",
+          "city": "kilcoole"
+        },
+        "email": "Ki@example.com",
+        "login": {
+          "username": "Ambulance",
+          "password": "firewall",
+          "key": "2"
+        },
+        "phone": "011-962-7516",
+        "picture": {
+          "thumbnail": "https://i.ibb.co/sVk6B7C/obi-onyeador-T5-Toj-XFNnjk-unsplash.jpg",
+          "description":"Hospital Emergency Codes are used in hospitals worldwide, including SKB medical, to alert the staff of various emergency situations. The use of codes is intended to convey essential information quickly and with the least misunderstanding to staff, while preventing stress or panic among visitors to the hospital. At our Hospitals, we are using nine Emergency Codes (coded by colour), each denoting a different emergency situation."
+        }
+      },
+  
+      {
+        "name": "Expert Doctors",
+        "location": {
+          "street": "9278 new road",
+          "city": "kilcoole"
+        },
+        "email": "ra@example.com",
+        "login": {
+          "username": "doctor",
+          "password": "firewall",
+          "key": "3"
+        },
+        "phone": "011-962-7516",
+        "picture": {
+          "thumbnail": "https://i.ibb.co/ftm0Hhn/sammy-williams-38-Un6-Oi5be-E-unsplash.jpg",
+          "description":"Hospital Emergency Codes are used in hospitals worldwide, including SKB medical, to alert the staff of various emergency situations. The use of codes is intended to convey essential information quickly and with the least misunderstanding to staff, while preventing stress or panic among visitors to the hospital. At our Hospitals, we are using nine Emergency Codes (coded by colour), each denoting a different emergency situation."
+        }
+      },
+  
+      {
+        "name": "Medicines",
+        "location": {
+          "street": "9278 new road",
+          "city": "kilcoole"
+        },
+        "email": "sah@example.com",
+        "login": {
+          "username": "silverswan131",
+          "password": "firewall",
+          "key": "4"
+        },
+        "phone": "011-962-7516",
+        "picture": {
+          "thumbnail": "https://i.ibb.co/Tr2Bb1D/christine-sandu-jw-Wt-Zrm67-VI-unsplash.jpg",
+          "description":"Hospital Emergency Codes are used in hospitals worldwide, including SKB medical, to alert the staff of various emergency situations. The use of codes is intended to convey essential information quickly and with the least misunderstanding to staff, while preventing stress or panic among visitors to the hospital. At our Hospitals, we are using nine Emergency Codes (coded by colour), each denoting a different emergency situation."
+        }
+      },
+  
+      {
+        "name": "Bed Facility",
+        "location": {
+          "street": "9278 new road",
+          "city": "kilcoole"
+        },
+        "email": "rk@example.com",
+        "login": {
+          "username": "silverswan131",
+          "password": "firewall",
+          "key": "5"
+        },
+        "phone": "011-962-7516",
+        "picture": {
+          "thumbnail": "https://i.ibb.co/s3f6YMv/adhy-savala-zbpgm-Ge27p8-unsplash.jpg",
+          "description":"Hospital Emergency Codes are used in hospitals worldwide, including SKB medical, to alert the staff of various emergency situations. The use of codes is intended to convey essential information quickly and with the least misunderstanding to staff, while preventing stress or panic among visitors to the hospital. At our Hospitals, we are using nine Emergency Codes (coded by colour), each denoting a different emergency situation."
+        }
+      },
+  
+      {
+        "name": "Full Body CheckUp",
+        "location": {
+          "street": "9278 new road",
+          "city": "kilcoole"
+        },
+        "email": "eht@example.com",
+        "login": {
+          "username": "silverswan131",
+          "password": "firewall",
+          "key": "6"
+        },
+        "phone": "011-962-7516",
+        "picture": {
+          "thumbnail": "https://i.ibb.co/wNBwPpS/full-body-health-checkup-626x439.jpg",
+          "description":"Hospital Emergency Codes are used in hospitals worldwide, including SKB medical, to alert the staff of various emergency situations. The use of codes is intended to convey essential information quickly and with the least misunderstanding to staff, while preventing stress or panic among visitors to the hospital. At our Hospitals, we are using nine Emergency Codes (coded by colour), each denoting a different emergency situation."
+        }
+      }
+    ]
+  }
