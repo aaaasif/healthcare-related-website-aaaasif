@@ -1,0 +1,7 @@
+.service-img {
+    min-height: 280px;
+    max-height: 340px;
+}
+.service-body {
+    min-height: 100vh;
+}

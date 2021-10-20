@@ -1,0 +1,14 @@
+.img-telemedicine {
+    width: 100%;
+}
+.tele-li {
+    text-align: left;
+}
+.tele-faq-li {
+    list-style: none;
+    text-align: left;
+}
+.tele-faq-li:hover {
+    color: #fa6464;
+    
+}
